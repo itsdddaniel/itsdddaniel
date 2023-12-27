@@ -28,4 +28,3 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsdddaniel&hide=css,prolog,html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Stats](https://github-readme-stats.vercel.app/api?username=itsdddaniel&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
