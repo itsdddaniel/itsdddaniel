@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">You can call me Dan - Development Consultant</h3>
+<h3 align="center">You can call me Dan</h3>
 
 - ⚒ Currently working as a Development Consultant and Web Developer
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/itsddaniel/)
