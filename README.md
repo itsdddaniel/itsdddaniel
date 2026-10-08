@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">You can call me Dan</h3>
 
-- ⚒ Currently working as a Full Stack Developer and a Development Consultant
+- ⚒ Currently working as a Full Stack Developer
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/itsddaniel/)
 - ✨ Designer
 
